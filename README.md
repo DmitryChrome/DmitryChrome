@@ -21,6 +21,7 @@
   - Навыки: 
     * Python
     * SQL
+    * Machine Learning
     * Аналитика данных
 
 ### ⚡️ В настоящее время ⚡️
@@ -53,6 +54,7 @@
   - Skills:
     * Python
     * SQL
+    * Machine Learning
     * data analytics
 
 ### ⚡️ Currently ⚡️
